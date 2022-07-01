@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\POC\\eblocks_software\\TrainRoute\\TrainRoute\\TrainRoute.csproj",
+      "projectUniqueName": "F:\\POC\\TrainRoute\\TrainRoute\\TrainRoute\\TrainRoute\\TrainRoute.csproj",
       "projectName": "TrainRoute",
-      "projectPath": "F:\\POC\\eblocks_software\\TrainRoute\\TrainRoute\\TrainRoute.csproj",
+      "projectPath": "F:\\POC\\TrainRoute\\TrainRoute\\TrainRoute\\TrainRoute\\TrainRoute.csproj",
       "packagesPath": "C:\\Users\\yogeshu\\.nuget\\packages\\",
-      "outputPath": "F:\\POC\\eblocks_software\\TrainRoute\\TrainRoute\\obj\\",
+      "outputPath": "F:\\POC\\TrainRoute\\TrainRoute\\TrainRoute\\TrainRoute\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
